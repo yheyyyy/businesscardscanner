@@ -4,6 +4,8 @@ This Business Card Scanner uses the Llama3.2-Vision model and NuExtract-v1.5 mod
 
 The output of the tool will be a excel spreadsheet containing information as such "Name", "Job Title", "Company", "Contact Number", "Email Address", "Website" and "Address".
 
+![](robot_reading_namecards.png)
+
 ## Installation
 
 To use the Business Card Scanner, you need to have Python installed on your system. Follow these steps to install the required dependencies:
@@ -29,7 +31,7 @@ pip install -r requirements.txt
 
 4. Install Ollama:
 
-- go to https://ollama.com/ and download the application , then download the following models in the command line.
+Go to https://ollama.com/ and download the application , then download the following models in the command line.
 
 ```bash
 ollama pull llama3.2-vision:11b
