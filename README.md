@@ -4,7 +4,7 @@ This Business Card Scanner uses the Llama3.2-Vision model and NuExtract-v1.5 mod
 
 The output of the tool will be a excel spreadsheet containing information as such "Name", "Job Title", "Company", "Contact Number", "Email Address", "Website" and "Address".
 
-![](robot_reading_namecards.png)
+![](images/robot_reading_namecards.png)
 
 ## Installation
 
